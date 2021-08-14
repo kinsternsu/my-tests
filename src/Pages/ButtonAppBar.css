@@ -1,0 +1,33 @@
+ .root {
+    flex-Grow: 1;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color:rgba(250, 250, 250, 0.5);
+  }
+  .menuButton {
+    margin-Right: 5px;
+  }
+
+  .title {
+    flex-Grow: 1;
+  }
+  .slogan {
+    justify-Content: center;
+    align-Items: center;
+  }
+
+  .appbar {
+    height:200px;
+    background-Position: center;
+    background-Repeat: no-repeat;
+    background-Size: cover;
+    position: relative;
+    display: flex;
+    opacity:1.0;
+    color:#000;
+    background-color:rgba(250, 250, 250, 0.5);
+
+      
+    }     
+  
